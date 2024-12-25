@@ -1,0 +1,13 @@
+form{
+    padding: 10px;
+    margin: 100px auto;
+   width: 30%; 
+/*   text-align: center;*/
+   border: 1px solid lightcoral;
+}
+input{
+    width: 80%;
+    display: block;
+    padding: 10px;
+    margin: 10px auto;
+}
